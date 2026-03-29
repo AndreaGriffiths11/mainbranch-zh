@@ -67,4 +67,4 @@ Main Branch 的核心理念：**基础优先，永远实用。**
 
 ---
 
-**作者**: [Andrea Griffiths](https://x.com/acolombiadev) · GitHub Staff · [𝕏 @acolombiadev](https://x.com/acolombiadev)
+**作者**: [Andrea Griffiths](https://x.com/acolombiadev) · [𝕏 @acolombiadev](https://x.com/acolombiadev)

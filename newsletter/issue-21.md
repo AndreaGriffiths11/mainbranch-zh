@@ -42,6 +42,8 @@ services:
 
 ## 🎧 最近在听
 
+**[An AI state of the union](https://www.youtube.com/watch?v=wc8FBhQtdsA&pp=ygUPbGVubnkncyBwb2RjYXN0) — Simon Willison 上 Lenny 的播客**
+
 Simon 是 Django 的联合创始人，"prompt injection" 这个术语就是他提出的，也是公开构建做得最多的人之一。这期播客长 1 小时 40 分钟，讨论了 agent 工程模式、这种工作方式带来的精神消耗，以及为什么中级工程师才是真正面临风险的群体。关于"致命三要素"的部分非常值得一听。推荐给想了解 AI 对软件开发到底改变了什么、但不想听炒作的人。
 
 ## 🔧 最近在用

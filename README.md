@@ -6,28 +6,53 @@
 
 ## 📮 所有期刊
 
-| 期号 | 标题 | 日期 |
+| 期号 | 标题 | 日期 | 状态 |
+|------|------|------|------|
+| #25 | [待翻译](newsletter/issue-25.md) | 2026-05-04 | ✅ 已添加 |
+| #24 | [待翻译](newsletter/issue-24.md) | 2026-04-27 | ✅ 已添加 |
+| #23 | [待翻译](newsletter/issue-23.md) | 2026-04-20 | ✅ 已添加 |
+| #21 | [待翻译](issues/issue-21.md) | 2026-04-05 | ✅ 已有 |
+| #20 | [🔍 就是那种，终于慢下来读小字的那期](issues/issue-20.md) | 2026-03-28 | ✅ 已有 |
+| #19 | [🥊 就是那种，Actions 终于不跟你作对了的那期](issues/issue-19.md) | 2026-03-23 | ✅ 已有 |
+| #18 | [🔄 就是那种，hooks 自己会更新的那期](issues/issue-18.md) | 2026-03-15 | ✅ 已有 |
+| #17 | [🗂️ 就是那种，GitHub 终于想起东西放哪了的那期](issues/issue-17.md) | 2026-03-07 | ✅ 已有 |
+| #16 | [🚰 就是那种，水管终于修好了的那期](issues/issue-16.md) | 2026-02-28 | ✅ 已有 |
+| #15 | [🚗 就是那种，Agent 学会开车了的那期](issues/issue-15.md) | 2026-02-23 | ✅ 已有 |
+| #14 | [🦞 就是那种，龙虾跑出来了的那期](issues/issue-14.md) | 2026-02-16 | ✅ 已有 |
+| #13 | [🧠 就是那种，Issues 打进季后赛了的那期](issues/issue-13.md) | 2026-02-09 | ✅ 已有 |
+| #12 | [⚙️ 就是那种，帮你穿透 AI 噪音的那期](issues/issue-12.md) | 2026-02-02 | ✅ 已有 |
+| #11 | [🏎️ 就是那种，一切都变快了的那期](issues/issue-11.md) | 2026-01-25 | ✅ 已有 |
+| #10 | [👩🏽‍🚀 就是那种，聊有意识的架构设计的那期](issues/issue-10.md) | 2026-01-19 | ✅ 已有 |
+| #9 | [🥷🏽 就是那种，安全居然免费的那期](issues/issue-9.md) | 2026-01-11 | ✅ 已有 |
+| #8 | [🚀 就是那种，工具终于快起来了的那期](issues/issue-8.md) | 2026-01-05 | ✅ 已有 |
+| #7 | [🎁 就是那种，开奖啦的那期](issues/issue-7.md) | 2025-12-29 | ✅ 已有 |
+| #6 | [💰 就是那种，Actions 居然降价了的那期](issues/issue-6.md) | 2025-12-22 | ✅ 已有 |
+| #5 | [💡 就是那种，Git 冷知识救你命的那期](issues/issue-5.md) | 2025-12-15 | ✅ 已有 |
+| #4 | [🔌 就是那种，它不是 API 的那期](issues/issue-4.md) | 2025-12-08 | ✅ 已有 |
+| #3 | [🔎 就是那种，Code Review 终于好使了的那期](issues/issue-3.md) | 2025-12-01 | ✅ 已有 |
+| #2 | [🔐 就是那种，Actions 安全终于硬气了的那期](issues/issue-2.md) | 2025-11-24 | ✅ 已有 |
+| #1 | [🚢 就是那种，好东西全被你们错过了的那期](issues/issue-1.md) | 2025-11-17 | ✅ 已有 |
+
+## 📄 文章
+
+| 标题 | 日期 | 状态 |
 |------|------|------|
-| #20 | [🔍 就是那种，终于慢下来读小字的那期](issues/issue-20.md) | 2026-03-28 |
-| #19 | [🥊 就是那种，Actions 终于不跟你作对了的那期](issues/issue-19.md) | 2026-03-23 |
-| #18 | [🔄 就是那种，hooks 自己会更新的那期](issues/issue-18.md) | 2026-03-15 |
-| #17 | [🗂️ 就是那种，GitHub 终于想起东西放哪了的那期](issues/issue-17.md) | 2026-03-07 |
-| #16 | [🚰 就是那种，水管终于修好了的那期](issues/issue-16.md) | 2026-02-28 |
-| #15 | [🚗 就是那种，Agent 学会开车了的那期](issues/issue-15.md) | 2026-02-23 |
-| #14 | [🦞 就是那种，龙虾跑出来了的那期](issues/issue-14.md) | 2026-02-16 |
-| #13 | [🧠 就是那种，Issues 打进季后赛了的那期](issues/issue-13.md) | 2026-02-09 |
-| #12 | [⚙️ 就是那种，帮你穿透 AI 噪音的那期](issues/issue-12.md) | 2026-02-02 |
-| #11 | [🏎️ 就是那种，一切都变快了的那期](issues/issue-11.md) | 2026-01-25 |
-| #10 | [👩🏽‍🚀 就是那种，聊有意识的架构设计的那期](issues/issue-10.md) | 2026-01-19 |
-| #9 | [🥷🏽 就是那种，安全居然免费的那期](issues/issue-9.md) | 2026-01-11 |
-| #8 | [🚀 就是那种，工具终于快起来了的那期](issues/issue-8.md) | 2026-01-05 |
-| #7 | [🎁 就是那种，开奖啦的那期](issues/issue-7.md) | 2025-12-29 |
-| #6 | [💰 就是那种，Actions 居然降价了的那期](issues/issue-6.md) | 2025-12-22 |
-| #5 | [💡 就是那种，Git 冷知识救你命的那期](issues/issue-5.md) | 2025-12-15 |
-| #4 | [🔌 就是那种，它不是 API 的那期](issues/issue-4.md) | 2025-12-08 |
-| #3 | [🔎 就是那种，Code Review 终于好使了的那期](issues/issue-3.md) | 2025-12-01 |
-| #2 | [🔐 就是那种，Actions 安全终于硬气了的那期](issues/issue-2.md) | 2025-11-24 |
-| #1 | [🚢 就是那种，好东西全被你们错过了的那期](issues/issue-1.md) | 2025-11-17 |
+| [使用 LiveKit Agents 创建实时语音智能体](articles/newsletter-voice-agent-livekit.md) | 2026-04-20 | ✅ 已添加 |
+| [使用 Ollama 和 GitHub Copilot CLI 实现本地 AI](articles/copilot-cli-byok-ollama.md) | 2026-04-13 | ✅ 已有 |
+| [ClawRelay: GitHub Actions 中的零成本 AI Agent 持久性](articles/claw-relay.md) | 2026-04-06 | ✅ 已有 |
+| [使用 GitHub Models 进行对抗性代码审查](articles/adversarial-code-review.md) | 2026-04-05 | ✅ 已有 |
+| [GitHub Actions 基础：权限和时间管理](articles/github-actions-fundamentals.md) | 2026-03-22 | ✅ 已有 |
+| AI 自主编程维护 | - | ⏳ 待翻译 |
+| AI 可发现性的重要性 | - | ⏳ 待翻译 |
+| 使用 Copilot SDK 实现 AI 驱动的 Guest 自动化 | - | ⏳ 待翻译 |
+| 使用 GitHub Actions Case 函数清理工作流逻辑 | - | ⏳ 待翻译 |
+| Copilot CLI × Meek Mill Dreamchasers | - | ⏳ 待翻译 |
+| GitHub Stars 分析 | - | ⏳ 待翻译 |
+| 如何分享你所知道的 | - | ⏳ 待翻译 |
+| 量子计算与癌症研究 | - | ⏳ 待翻译 |
+| TRMNL Agent Display | - | ⏳ 待翻译 |
+| Unsloth 语音实验 | - | ⏳ 待翻译 |
+| Zo 记忆与 Supermemory | - | ⏳ 待翻译 |
 
 ## 🔍 关于 Main Branch
 

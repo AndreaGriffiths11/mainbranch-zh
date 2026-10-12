@@ -9,6 +9,25 @@
 | 期号 | 标题 | 日期 | 状态 |
 |------|------|------|------|
 | #25 | [待翻译](newsletter/issue-25.md) | 2026-05-04 | ✅ 已添加 |
+| #44 | [🫣 Main Branch：正则表达式，你就这一个任务](newsletter/issue-44.md) | 2026-10-12 | ✅ 已添加 |
+| #43 | [💥 Main Branch 技术周刊：这次你的覆盖率检查一直在骗你](newsletter/issue-43.md) | 2026-10-04 | ✅ 已添加 |
+| #42 | [🔐 Main Branch 技术周刊：这次你的 git push 可能会失败](newsletter/issue-42.md) | 2026-09-27 | ✅ 已添加 |
+| #41 | [🚧 Main Branch 技术周刊：这次给 workflow 划定边界 - Issue #41](newsletter/issue-41.md) | 2026-09-20 | ✅ 已添加 |
+| #40 | [🔑 Main Branch 技术周刊：这次可以删掉一个 PAT 了 - Issue #40](newsletter/issue-40.md) | 2026-09-13 | ✅ 已添加 |
+| #39 | [📎 Main Branch 技术周刊：截图和 bug 一起发出去了 - Issue #39](newsletter/issue-39.md) | 2026-09-06 | ✅ 已添加 |
+| #38 | [⏳ Main Branch 技术周刊：你的 CI 历史记录要变短了 - Issue #38](newsletter/issue-38.md) | 2026-08-30 | ✅ 已添加 |
+| #37 | [🔁 Main Branch 技术周刊：重试让问题更糟 - Issue #37](newsletter/issue-37.md) | 2026-08-23 | ✅ 已添加 |
+| #36 | [🔭 Main Branch: The One Where Defaults Stop Being Blind Spots - Issue #36](newsletter/issue-36.md) | 2026-08-16 | ✅ 已添加 |
+| #35 | [🥞 Main Branch 技术周刊：拆开巨型 PR](newsletter/issue-35.md) | 2026-08-09 | ✅ 已添加 |
+| #34 | [🚧 Main Branch 技术周刊：给 pull requests 划边界](newsletter/issue-34.md) | 2026-07-27 | ✅ 已添加 |
+| #33 | [🗝️ Main Branch 技术周刊：权限开始挑人了](newsletter/issue-33.md) | 2026-07-13 | ✅ 已添加 |
+| #32 | [⚡ Main Branch 技术周刊：让 steps 不再排队](newsletter/issue-32.md) | 2026-06-29 | ✅ 已添加 |
+| #31 | [🚦 Main Branch 技术周刊：让 bot 来跑你的 CI（如果你允许的话）](newsletter/issue-31.md) | 2026-06-14 | ✅ 已添加 |
+| #30 | [🚢 Main Branch 技术周刊：Teams 不再到处复制](newsletter/issue-30.md) | 2026-06-07 | ✅ 已添加 |
+| #29 | [🚢 让发布前那一刻更诚实的那一期](newsletter/issue-29.md) | 2026-05-31 | ✅ 已添加 |
+| #28 | [🏷️ Issue Fields 走向全组织的那一期](newsletter/issue-28.md) | 2026-05-24 | ✅ 已添加 |
+| #27 | [💸 账单到达前你就能看到](newsletter/issue-27.md) | 2026-05-17 | ✅ 已添加 |
+| #26 | [⚖️ 规则终于说得通了](newsletter/issue-26.md) | 2026-05-09 | ✅ 已添加 |
 | #24 | [待翻译](newsletter/issue-24.md) | 2026-04-27 | ✅ 已添加 |
 | #23 | [待翻译](newsletter/issue-23.md) | 2026-04-20 | ✅ 已添加 |
 | #21 | [待翻译](issues/issue-21.md) | 2026-04-05 | ✅ 已有 |

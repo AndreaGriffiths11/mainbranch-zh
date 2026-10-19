@@ -9,6 +9,7 @@
 | 期号 | 标题 | 日期 | 状态 |
 |------|------|------|------|
 | #25 | [待翻译](newsletter/issue-25.md) | 2026-05-04 | ✅ 已添加 |
+| #45 | [🐛 Main Branch：这次，智能体的第一个猜测错了 - Issue #45](newsletter/issue-45.md) | 2026-10-19 | ✅ 已添加 |
 | #44 | [🫣 Main Branch：正则表达式，你就这一个任务](newsletter/issue-44.md) | 2026-10-12 | ✅ 已添加 |
 | #43 | [💥 Main Branch 技术周刊：这次你的覆盖率检查一直在骗你](newsletter/issue-43.md) | 2026-10-04 | ✅ 已添加 |
 | #42 | [🔐 Main Branch 技术周刊：这次你的 git push 可能会失败](newsletter/issue-42.md) | 2026-09-27 | ✅ 已添加 |

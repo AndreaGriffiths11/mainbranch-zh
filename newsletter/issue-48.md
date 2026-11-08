@@ -25,7 +25,7 @@ featured: false
 
 Brownout 会在 11 月 9 日和 16 日举行，时间都是太平洋时间上午 8 点到 10 点。被阻止的尝试会生成失败的运行记录和错误注释，workflow 不会执行。之后规则会回到 evaluate 模式，允许运行并显示警告。现在就检查 Insights，再决定保留默认规则，还是明确允许这个 trigger。你也可以指定 workflow 文件，只允许特定 workflow。
 
-![检查 pull_request_target 的三种方式：查看最近的 Actions 运行、搜索 workflow 文件，并在 Insights 中查看策略影响。如果没有最近的运行记录，也要检查 workflow 文件和 Insights，再判断是否会受影响。](/images/issue-48-pull-request-target-checks.svg)
+![检查 pull_request_target 的三种方式：查看最近的 Actions 运行、搜索 workflow 文件，并在 Insights 中查看策略影响。如果没有最近的运行记录，也要检查 workflow 文件和 Insights，再判断是否会受影响。](https://mainbranch.dev/images/issue-48-pull-request-target-checks.svg?v=48)
 
 ### [Pull request 限制：按账号年龄或历史记录豁免贡献者](https://github.blog/changelog/2026-10-28-pull-request-limits-exempt-contributors-by-age-or-history/)
 
@@ -48,6 +48,10 @@ Pull request 限制现在允许维护者根据贡献者的账号年龄或已合�
 ## ✨ 这周
 
 我很期待分享上周在西雅图录制的内容。我们聚集了一群非常出色的人，用更实际的方式聊了 10 月 changelog 里的重要更新。不知道你是不是也这样，面对一页又一页的 changelog，真的很难看出它对自己和团队有什么影响。视频今天晚些时候会发布到 YouTube，上线后我会更新这个链接。
+
+![西雅图录制现场的合影](../images/issue-48-seattle-recording.png)
+
+*@burkeholland @meagancojocar @luisatlive*
 
 带着感激，下周见，
 

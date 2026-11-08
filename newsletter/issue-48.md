@@ -25,7 +25,7 @@ featured: false
 
 Brownout 会在 11 月 9 日和 16 日举行，时间都是太平洋时间上午 8 点到 10 点。被阻止的尝试会生成失败的运行记录和错误注释，workflow 不会执行。之后规则会回到 evaluate 模式，允许运行并显示警告。现在就检查 Insights，再决定保留默认规则，还是明确允许这个 trigger。你也可以指定 workflow 文件，只允许特定 workflow。
 
-![检查 pull_request_target 的三种方式：查看最近的 Actions 运行、搜索 workflow 文件，并在 Insights 中查看策略影响。如果没有最近的运行记录，也要检查 workflow 文件和 Insights，再判断是否会受影响。](/images/issue-48-pull-request-target-checks.svg)
+![检查 pull_request_target 的三种方式：查看最近的 Actions 运行、搜索 workflow 文件，并在 Insights 中查看策略影响。如果没有最近的运行记录，也要检查 workflow 文件和 Insights，再判断是否会受影响。](https://mainbranch.dev/images/issue-48-pull-request-target-checks.svg?v=48)
 
 ### [Pull request 限制：按账号年龄或历史记录豁免贡献者](https://github.blog/changelog/2026-10-28-pull-request-limits-exempt-contributors-by-age-or-history/)
 

@@ -9,6 +9,9 @@
 | 期号 | 标题 | 日期 | 状态 |
 |------|------|------|------|
 | #25 | [待翻译](newsletter/issue-25.md) | 2026-05-04 | ✅ 已添加 |
+| #48 | [📅 Main Branch：这次，你的 workflow 有了新的截止日期 - Issue #48](newsletter/issue-48.md) | 2026-11-09 | ✅ 已添加 |
+| #47 | [☁️ Main Branch：这次，你的 runner 开始跨云运行 - Issue #47](newsletter/issue-47.md) | 2026-11-02 | ✅ 已添加 |
+| #46 | [🔐 Main Branch：这次，你的 gh token 会按设计过期 - Issue #46](newsletter/issue-46.md) | 2026-10-26 | ✅ 已添加 |
 | #45 | [🐛 Main Branch：这次，智能体的第一个猜测错了 - Issue #45](newsletter/issue-45.md) | 2026-10-19 | ✅ 已添加 |
 | #44 | [🫣 Main Branch：正则表达式，你就这一个任务](newsletter/issue-44.md) | 2026-10-12 | ✅ 已添加 |
 | #43 | [💥 Main Branch 技术周刊：这次你的覆盖率检查一直在骗你](newsletter/issue-43.md) | 2026-10-04 | ✅ 已添加 |
@@ -31,7 +34,7 @@
 | #26 | [⚖️ 规则终于说得通了](newsletter/issue-26.md) | 2026-05-09 | ✅ 已添加 |
 | #24 | [待翻译](newsletter/issue-24.md) | 2026-04-27 | ✅ 已添加 |
 | #23 | [待翻译](newsletter/issue-23.md) | 2026-04-20 | ✅ 已添加 |
-| #21 | [待翻译](issues/issue-21.md) | 2026-04-05 | ✅ 已有 |
+| #21 | [待翻译](newsletter/issue-21.md) | 2026-04-05 | ✅ 已有 |
 | #20 | [🔍 就是那种，终于慢下来读小字的那期](issues/issue-20.md) | 2026-03-28 | ✅ 已有 |
 | #19 | [🥊 就是那种，Actions 终于不跟你作对了的那期](issues/issue-19.md) | 2026-03-23 | ✅ 已有 |
 | #18 | [🔄 就是那种，hooks 自己会更新的那期](issues/issue-18.md) | 2026-03-15 | ✅ 已有 |

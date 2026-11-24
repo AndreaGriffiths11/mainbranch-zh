@@ -9,6 +9,8 @@
 | 期号 | 标题 | 日期 | 状态 |
 |------|------|------|------|
 | #25 | [待翻译](newsletter/issue-25.md) | 2026-05-04 | ✅ 已添加 |
+| #50 | [⏳ Main Branch：这次，gh 会等着你的 PR - Issue #50](newsletter/issue-50.md) | 2026-11-23 | ✅ 已添加 |
+| #49 | [⏸️ Main Branch：这次，不活跃仓库的告警要暂停了 - Issue #49](newsletter/issue-49.md) | 2026-11-16 | ✅ 已添加 |
 | #48 | [📅 Main Branch：这次，你的 workflow 有了新的截止日期 - Issue #48](newsletter/issue-48.md) | 2026-11-09 | ✅ 已添加 |
 | #47 | [☁️ Main Branch：这次，你的 runner 开始跨云运行 - Issue #47](newsletter/issue-47.md) | 2026-11-02 | ✅ 已添加 |
 | #46 | [🔐 Main Branch：这次，你的 gh token 会按设计过期 - Issue #46](newsletter/issue-46.md) | 2026-10-26 | ✅ 已添加 |
